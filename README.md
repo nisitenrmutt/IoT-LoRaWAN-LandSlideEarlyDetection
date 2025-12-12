@@ -5,12 +5,12 @@ This repository contains the source code, firmware, and dataset supporting the r
 The project presents a custom-developed, low-cost LoRaWAN sensor node designed to monitor critical parameters affecting canal bank settlements and landslides in Thailand.
 
 ## 👥 Authors
-* **Nisit Pukrongta** (Rajamangala University of Technology Thanyaburi)
-* **Boonyarit Kumkhet** (Rajamangala University of Technology Thanyaburi)
-* **Srikulnath Nilnoree** (Suranaree University of Technology)
-* **Taweephong Suksawat** (Department of Rural Roads)
-* **Tanaporn Pechrkool** (Rajamangala University of Technology Thanyaburi)
-* **Virote Pirajnanchai** (Rajamangala University of Technology Thanyaburi)
+* **First Author: Nisit Pukrongta** (Rajamangala University of Technology Thanyaburi)
+* **Corresponding Author: Boonyarit Kumkhet** (Rajamangala University of Technology Thanyaburi)
+* **Co-Corresponding Author: Srikulnath Nilnoree** (Suranaree University of Technology)
+* **Author: Taweephong Suksawat** (Department of Rural Roads, Thailand)
+* **Author: Tanaporn Pechrkool** (Rajamangala University of Technology Thanyaburi)
+* **Author: Virote Pirajnanchai** (Rajamangala University of Technology Thanyaburi)
 
 ---
 
