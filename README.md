@@ -41,9 +41,10 @@ This repository provides the firmware used in the developed system architecture 
 
 To support reproducibility and transparency, the raw experimental data used for the analysis in this study is publicly available.
 
-* **Dataset:** Raw Sensor Data for Analysis
-* **Format:** Google Sheets (.xlsx / .csv exportable)
-* **Access Link:** [Click here to access the Raw Data](https://docs.google.com/spreadsheets/d/1ezdHPp6YFu3tAXTkf4yxeHbeSb7eoOdoLR8NR-OcpEA/edit?usp=sharing)
+* **Repository:** Mendeley Data
+* **Dataset Title:** Data for: An IoT-Based Multi-Sensor Monitoring System with LoRaWAN for Landslide Early Detection in Risk-Prone Areas
+* **DOI:** [#######]
+* **Direct URL:** [######]
 
 The dataset includes time-series recordings of soil moisture, inclination (gyroscope), vibration, and environmental parameters collected during the field testing phase.
 
