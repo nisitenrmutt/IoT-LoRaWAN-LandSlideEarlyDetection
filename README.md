@@ -43,8 +43,8 @@ To support reproducibility and transparency, the raw experimental data used for 
 
 * **Repository:** Mendeley Data
 * **Dataset Title:** Data for: An IoT-Based Multi-Sensor Monitoring System with LoRaWAN for Landslide Early Detection in Risk-Prone Areas
-* **DOI:** [#######]
-* **Direct URL:** [######]
+* **DOI:** 10.17632/9w43sg73bt.1
+* **Direct URL:** https://data.mendeley.com/datasets/9w43sg73bt/1
 
 The dataset includes time-series recordings of soil moisture, inclination (gyroscope), vibration, and environmental parameters collected during the field testing phase.
 
